@@ -1,0 +1,12 @@
+{
+  "name": "roblox-auto-accept",
+  "version": "1.0.0",
+  "description": "Offline Roblox friend request acceptor",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
